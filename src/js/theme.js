@@ -14,10 +14,10 @@ const colorSets = [
   },
   {
     "--text-color": "#BFB8B8",
-    "--hover-color": "#D8C0327",
+    "--hover-color": "#8C0327",
     "--accent-color": "#D9043D",
-    "--accent-color-2": "#D8C0327",
-    "--background-color": "#595552",
+    "--accent-color-2": "#8C0327",
+    "--background-color": "#1a1b26",
   },
   {
     "--text-color": "#c0caf5",
