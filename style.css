@@ -84,6 +84,7 @@ html, body {
     position:relative;
 }
 
+
 .s1border {
     transform: translateY(-400%);
     background-image: url('image/starborder.gif');
@@ -105,11 +106,194 @@ html, body {
     overflow: hidden;
 }
 
+.s2e1 {
+    background-image: url('image/sad.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 30%;
+    background-position-x: 62%;
+    background-size: 4% 25%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e2 {
+    transform: translateY(-100%);
+    background-image: url('image/tv.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 15% 80%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e3 {
+    transform: translateY(-200%);
+    background-image: url('image/click.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 80%;
+    background-position-x: 62%;
+    background-size: 6% 30%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e4 {
+    transform: translateY(-300%);
+    background-image: url('image/subscribe.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 85%;
+    background-position-x: 32%;
+    background-size: 16% 20%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e5 {
+    transform: translateY(-400%);
+    background-image: url('image/eye.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 50%;
+    background-position-x: 13%;
+    background-size: 14% 90%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e6 {
+    transform: translateY(-500%);
+    background-image: url('image/eye2.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 8%;
+    background-position-x: 32%;
+    background-size: 14% 64%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e7 {
+    transform: translateY(-600%);
+    background-image: url('image/eyes.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 70%;
+    background-position-x: 82%;
+    background-size: 28% 90%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s2e8 {
+    transform: translateY(-700%);
+    background-image: url('image/away.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 30%;
+    background-position-x: 102%;
+    background-size: 25% 110%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
 .s2border {
+    transform: translateY(-800%);
     background-image: url('image/starborder.gif');
     background-repeat: repeat-x;
     background-position-y: -6%;
     background-size: 50% 10%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.section3 {
+    background-image: url('image/zigbg.gif');
+    background-size: 124px 124px;
+    aspect-ratio: 6 / 1;
+    width: 100%;
+    overflow: hidden;
+}
+
+.s3e1 {
+    background-image: url('image/music.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 30%;
+    background-position-x: 76%;
+    background-size: 30% 110%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s3e2 {
+    transform: translateY(-100%);
+    background-image: url('image/headphones.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20% 90%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s3e3 {
+    transform: translateY(-200%);
+    background-image: url('image/ear.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 30%;
+    background-position-x: 100%;
+    background-size: 20% 90%;
+    display:block;
+    width: 100%;
+    height: 100%;
+    margin:0%;
+    position:relative;
+}
+
+.s3e4 {
+    transform: translateY(-300%);
+    background-image: url('image/click2.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 80%;
+    background-position-x: 25%;
+    background-size: 20% 50%;
     display:block;
     width: 100%;
     height: 100%;
